@@ -1,4 +1,5 @@
 # 🤖 Alpha Coder
+![Alpha Coder Preview](alpha.png)
 
 Alpha Coder é um assistente virtual de programação especializado em **Python**, desenvolvido com **Streamlit** e integrado à **API Groq**.
 
