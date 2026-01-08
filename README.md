@@ -24,5 +24,5 @@ O objetivo do projeto é auxiliar estudantes e desenvolvedores com:
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/alpha-coder.git
+git clone https://github.com/AlanSilvaDev/alpha-coder.git
 cd alpha-coder
